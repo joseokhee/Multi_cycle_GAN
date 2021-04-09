@@ -9,8 +9,8 @@
 # 장점
   1. 2가지가 합쳐진 목적 도메인을 따로 찾는 것이 아닌 (ex : 금발 여성) 2가지 도메인(ex : 금발, 여성)을 모두 원본 도메인으로 적용시킬 수 있기 때문에 본래의 형태를 더 유지하며 변환 가능
   2. 목적 도메인을 분리해서 학습시킬 수 있기 때문에 더 다양한 이미지 생성 가능 (ex : 자연 풍경의 야경 이미지가 많이 없지만 자연,야경을 따로 학습시키면 생성 가능)
-   <p align="center"><img src=https://user-images.githubusercontent.com/33644885/114181845-fa580900-997c-11eb-88bc-bd9065548c67.png"></img></p>
-  <p align="center"><img src=https://user-images.githubusercontent.com/33644885/114182018-25daf380-997d-11eb-8742-2a85e6ea5340.PNG"></img></p>
+   <p align="center"><img src="https://user-images.githubusercontent.com/33644885/114181845-fa580900-997c-11eb-88bc-bd9065548c67.png"></img></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/33644885/114182018-25daf380-997d-11eb-8742-2a85e6ea5340.PNG"></img></p>
   
 # 단점
   1. 2가지 속성 적용을 위해 입력값도 많고 상세 사항을 위해 적용되는 것이 많아 파라미터가 많다. 즉 학습이 느리다.
